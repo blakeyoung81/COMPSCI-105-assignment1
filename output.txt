@@ -1,0 +1,43 @@
+outputted text
+C:\Users\blake\PycharmProjects\compsci1\venv\Scripts\python.exe C:/Users/blake/PycharmProjects/compsci1/main.py
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\23 and me.txt
+The reading level of the text is  19.23
+A student in grade  19.2 would be able to read this document.
+At 15ms per character, it would take  825.48 to finish this text.
+There are  285 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\Dana-farber cancer institute data science.txt
+The reading level of the text is  51.78
+A student in grade  10.9 would be able to read this document.
+At 15ms per character, it would take  50.25 to finish this text.
+There are  36 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\snapchat.txt
+The reading level of the text is  46.0
+A student in grade  13.1 would be able to read this document.
+At 15ms per character, it would take  243.4 to finish this text.
+There are  126 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\Netflix.txt
+The reading level of the text is  26.14
+A student in grade  16.6 would be able to read this document.
+At 15ms per character, it would take  99.51 to finish this text.
+There are  43 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\Facebook.txt
+The reading level of the text is  45.09
+A student in grade  13.4 would be able to read this document.
+At 15ms per character, it would take  287.26 to finish this text.
+There are  143 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\Google.txt
+The reading level of the text is  43.26
+A student in grade  14.1 would be able to read this document.
+At 15ms per character, it would take  306.92 to finish this text.
+There are  143 in this text.
+
+This privacy policy is called C:\Users\blake\OneDrive\Desktop\Coding\Python\Projects\Privacy policy\apple.txt
+The reading level of the text is  37.13
+A student in grade  14.4 would be able to read this document.
+At 15ms per character, it would take  296.8 to finish this text.
+There are  151 in this text.
